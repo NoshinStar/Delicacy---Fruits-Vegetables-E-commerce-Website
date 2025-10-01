@@ -175,5 +175,5 @@ delicacy/
    - Order management
    - Analytics dashboard
 
-** Built with ❤️ by Noshin Nawar **
+**Built with ❤️ by Noshin Nawar**
 
