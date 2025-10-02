@@ -2,6 +2,8 @@
 
 Welcome to **Delicacy**, a modern e-commerce website for fresh fruits and vegetables with a stunning dark mode neon theme. This project showcases a responsive design with interactive elements, smooth animations, and a futuristic cyberpunk aesthetic.
 
+![DELICACY Screenshot](./assets/website-img.png)
+
 ## 🚀 Features
 
 ### Core Functionality
